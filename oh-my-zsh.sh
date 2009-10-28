@@ -17,3 +17,6 @@ then
 else
   /bin/sh $ZSH/tools/check_for_upgrade.sh
 fi
+
+# Easy changing offten used directories
+cdpath=(~ ~/Projects/)
