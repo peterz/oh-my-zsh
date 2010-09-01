@@ -22,6 +22,4 @@ else
   /usr/bin/env zsh $ZSH/tools/check_for_upgrade.sh
 fi
 
-# Easy changing offten used directories
-cdpath=(~ ~/Projects/)
 unset config_file
